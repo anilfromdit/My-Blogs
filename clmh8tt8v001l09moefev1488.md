@@ -5,6 +5,7 @@ seoDescription: "Unlock the full potential of Maven with our in-depth guide on B
 datePublished: Wed Sep 13 2023 04:30:10 GMT+0000 (Coordinated Universal Time)
 cuid: clmh8tt8v001l09moefev1488
 slug: mastering-maven-build-lifecycles-a-comprehensive-guide
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694638985049/4e518efc-0484-4a4b-b951-b96d81b9c0bc.png
 tags: java, maven, build, lifecycle, comprehensive-guide
 
 ---
